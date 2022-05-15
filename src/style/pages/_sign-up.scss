@@ -1,0 +1,27 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  img {
+    width: 200px;
+    border-radius: 100px;
+  }
+
+  label {
+    margin-right: 10px;
+  }
+
+  button {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+  }
+}

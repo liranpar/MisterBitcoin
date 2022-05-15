@@ -1,0 +1,23 @@
+.home-page {
+  h1 {
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+
+  h2 {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+
+    &:last-of-type {
+      margin-bottom: 40px;
+    }
+  }
+
+  .bitcoin-icon {
+    width: 27px;
+    height: 27px;
+    margin-right: 4px;
+  }
+}

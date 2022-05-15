@@ -1,0 +1,22 @@
+.transfer-fund {
+  h1 {
+    margin-bottom: 10px;
+    font-size: 16px;
+
+    &:first-of-type {
+      margin-top: 60px;
+      margin-bottom: 25px;
+      font-size: 20px;
+      font-weight: 600;
+    }
+  }
+
+  Label {
+    margin-right: 8px;
+  }
+
+  button {
+    display: block;
+    margin-top: 20px;
+  }
+}

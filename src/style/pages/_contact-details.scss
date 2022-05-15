@@ -1,0 +1,17 @@
+.contact-details {
+  display: flex;
+  gap: 150px;
+
+  .title {
+    flex-direction: row;
+    margin-bottom: 35px;
+    font-size: 22px;
+    font-weight: 600;
+  }
+
+  .transactions-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+}
